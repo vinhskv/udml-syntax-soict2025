@@ -1,4 +1,4 @@
-# UDML Support Tool
+# Long version: technical report 
 
 Due to page limitations in the paper, we provide a detailed description in the technical report (`techRep.pdf`), which presents the experiments conducted on the support tool.
 
