@@ -20,7 +20,7 @@ git clone -b mps/2024.3 https://github.com/JetBrains/MPS-extensions.git
 **Download UDML:**
 
 ```
-git clone [https://github.com/vnu-sme/udml-syntax-kse2025.git](https://github.com/vinhskv/udml-syntax-soict2025.git)
+git clone https://github.com/vinhskv/udml-syntax-soict2025.git
 ```
 
 After downloading, make sure to import these projects into JetBrains MPS to get started. If you encounter issues with importing, you can also open multiple projects in separate windows simultaneously.
